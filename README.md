@@ -1,1 +1,1 @@
-# tipdocs
+# Defaults and shortcuts
